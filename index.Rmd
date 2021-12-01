@@ -1,5 +1,5 @@
 --- 
-title: "![](file:/Users/mivicuna/Desktop/Proyecto CCU/logo-ccu.png){width=200px height=70px align=right}"
+title: "![](https://www.taloo.cl/assets/img/empresa/logos/logo-ccu-5e4499493c2c3.jpg){width=200px height=70px align=right}"
 author: "M. Ignacia Vicuña - Cristian Vásquez"
 date: "`r Sys.Date()`"
 output:
