@@ -1,0 +1,6 @@
+Package: placeholder
+Type: Book
+Title: Códigos Auditoría CCU
+Version: 0.0.1
+Imports: bookdown, ggplot2,readxl,scales,ggpubr,forecast,dplyr,car,ggcorrplot,FitAR
+Remotes: rstudio/bookdown
